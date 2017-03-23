@@ -68,4 +68,4 @@ So let's add a rule to use `giveme`.
 
 Now, after we `make` we can use our new syntax.
 
-~[using giveme](./giveme.png "Using giveme")
+![using giveme](./giveme.png "Using giveme")
