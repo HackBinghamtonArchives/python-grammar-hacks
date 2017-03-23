@@ -62,6 +62,10 @@ we find this:
 
 ![import Grammar](./import_name.png "In Grammar/Grammar")
 
-So let's add a rule to use `giveme`
+So let's add a rule to use `giveme`.
 
 ![import to giveme](./import_give_me.png "Modifying import rule")
+
+Now, after we `make` we can use our new syntax.
+
+~[using giveme](./giveme.png "Using giveme")
