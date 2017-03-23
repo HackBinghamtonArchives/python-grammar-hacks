@@ -52,4 +52,6 @@ Now everytime running `make` after the first, the compilation will be much quick
 ## Our first change
 In Python, we have to `import` modules before we can use them,
 
+![using import](./import.png "Using import")
+
 but we've decided we don't like the word `import` and want to `require` modules instead.
